@@ -3,23 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\meatballs\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|solutionrelative:meatballs\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|c:\\users\\adrian\\onedrive\\documenti\\github\\meatballs\\meatballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|solutionrelative:meatballs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Meatballs||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\meatballs\\meatballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|c:\\users\\adrian\\onedrive\\documenti\\github\\meatballs\\meatballs\\meatballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|solutionrelative:meatballs\\meatballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\meatballs\\meatballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|c:\\users\\adrian\\onedrive\\documenti\\github\\meatballs\\meatballs\\meatballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|solutionrelative:meatballs\\meatballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|c:\\users\\adrian\\onedrive\\documenti\\github\\meatballs\\meatballs\\meatballs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6A01376-B2CF-4904-A05A-EB1CC794DD13}|Meatballs\\Meatballs.csproj|solutionrelative:meatballs\\meatballs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Meatballs\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "Meatballs\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Title": "Meatballs.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Meatballs.cs",
+              "RelativeDocumentMoniker": "Meatballs\\Meatballs.cs",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Meatballs.cs",
+              "RelativeToolTip": "Meatballs\\Meatballs.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwBMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:58:32.589Z",
+              "WhenOpened": "2024-04-25T16:34:13.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Program.cs",
-              "RelativeDocumentMoniker": "Meatballs\\Program.cs",
-              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Program.cs",
-              "RelativeToolTip": "Meatballs\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Title": "Meatballs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Meatballs.cs",
+              "RelativeDocumentMoniker": "Meatballs\\Meatballs.cs",
+              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Meatballs.cs [Design]",
+              "RelativeToolTip": "Meatballs\\Meatballs.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:58:32.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T16:33:24.917Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -65,33 +57,10 @@
               "RelativeDocumentMoniker": "Meatballs\\Meatballs.csproj",
               "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Meatballs.csproj",
               "RelativeToolTip": "Meatballs\\Meatballs.csproj",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2022-03-31T16:07:44.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Meatballs.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Meatballs.cs",
-              "RelativeDocumentMoniker": "Meatballs\\Meatballs.cs",
-              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Meatballs.cs",
-              "RelativeToolTip": "Meatballs\\Meatballs.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:58:33.217Z",
+              "WhenOpened": "2024-04-25T16:25:24.521Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Meatballs.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Meatballs.cs",
-              "RelativeDocumentMoniker": "Meatballs\\Meatballs.cs",
-              "ToolTip": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Meatballs.cs [Design]",
-              "RelativeToolTip": "Meatballs\\Meatballs.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T15:58:33.218Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

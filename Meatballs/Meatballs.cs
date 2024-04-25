@@ -8,7 +8,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Tulpep.NotificationWindow;
 
 namespace Meatballs
 {
@@ -17,6 +16,8 @@ namespace Meatballs
         public Meatballs()
         {
             InitializeComponent();
+            notifyIcon1.Icon = SystemIcons.Application;
+            notifyIcon1.Visible = true;
             InitTimer();
         }
 
@@ -36,11 +37,6 @@ namespace Meatballs
 
         public void MeatballsIsReady()
         {
-            //    PopupNotifier popup = new PopupNotifier();
-            //    popup.TitleText = "Meatballs";
-            //    popup.ContentText = "Your Meatballs is ready";
-            //    popup.Popup(); //shows the notifaction
-
             notifyIcon1.ShowBalloonTip(1000, "Meatballs", "Your Meatballs is ready", ToolTipIcon.None);
         }
 

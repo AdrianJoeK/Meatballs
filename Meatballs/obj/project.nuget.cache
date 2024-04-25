@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J863dB8xQNBAXm3eF74Ry9jjq5ICRyntyrWDysQQM80VdxJaviaBHV68UYP/sG8HGv+dro4mA1OCD3WmAH0kDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adrian\\OneDrive\\Documenti\\GitHub\\Meatballs\\Meatballs\\Meatballs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
